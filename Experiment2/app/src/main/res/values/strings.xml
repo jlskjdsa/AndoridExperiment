@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Experiment2</string>
+    <string name="table_layout_4_open">open</string>
+    <string name="table_layout_4_open_shortcut">Ctrl-O</string>
+    <string name="table_layout_4_save">save</string>
+    <string name="table_layout_4_save_shortcut">Ctrl-S</string>
+    <string name="table_layout_4_saveas">saveas</string>
+    <string name="table_layout_4_saveas_shortcut">Ctrl-Shift-S</string>
+    <string name="table_layout_4_import">X Import...</string>
+    <string name="table_layout_4_export">X Export...</string>
+    <string name="table_layout_4_export_shortcut">Ctrl-E</string>
+    <string name="table_layout_4_quit">Quit</string>
+    <string name="button1">线性布局</string>
+    <string name="button2">表格布局</string>
+    <string name="button3">约束布局1</string>
+    <string name="button4">约束布局2</string>
+</resources>

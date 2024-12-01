@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:stretchColumns="1">
+
+
+    <TableRow>
+
+        <TextView
+            android:paddingLeft="11dp"
+            android:text="@string/table_layout_4_open" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="@string/table_layout_4_open_shortcut" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:paddingLeft="11dp"
+            android:text="@string/table_layout_4_save" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="@string/table_layout_4_save_shortcut" />
+    </TableRow>
+
+    <TableRow
+        >
+        <TextView
+            android:paddingLeft="11dp"
+            android:text="@string/table_layout_4_saveas" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="@string/table_layout_4_saveas_shortcut" />
+    </TableRow>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray" />
+    <TableRow
+        >
+        <TextView
+            android:paddingLeft="0dp"
+            android:text="@string/table_layout_4_import" />
+    </TableRow>
+    <TableRow
+        >
+        <TextView
+            android:paddingLeft="0dp"
+            android:text="@string/table_layout_4_export" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="@string/table_layout_4_export_shortcut" />
+    </TableRow>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray" />
+    <TableRow
+        >
+        <TextView
+            android:paddingLeft="11dp"
+            android:text="@string/table_layout_4_quit" />
+    </TableRow>
+</TableLayout>

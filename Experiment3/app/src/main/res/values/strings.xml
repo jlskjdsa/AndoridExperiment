@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Experiment3</string>
+    <string name="button1">SimpleAdapter</string>
+    <string name="button2">AlertDialog</string>
+    <string name="button3">使用XML定义菜单</string>
+    <string name="button4">ActionMode</string>
+    <string name="loginname" />
+    <string name="Cancel">Cancel</string>
+    <string name="SignIn">Sign in</string>
+    <string name="text">用于测试的内容</string>
+</resources>
